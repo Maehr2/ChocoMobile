@@ -1,0 +1,7 @@
+{
+  "name": "ChocoMobile",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
